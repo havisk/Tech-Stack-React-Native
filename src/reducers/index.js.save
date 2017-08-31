@@ -1,0 +1,6 @@
+OOOBOOBOBBBOimport { combineReducers } from 'redux';
+OOOBB
+
+export default combineReducers({
+    libraries: () => []
+});
